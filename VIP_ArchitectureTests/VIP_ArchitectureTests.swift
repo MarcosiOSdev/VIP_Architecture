@@ -7,7 +7,7 @@
 //
 
 import XCTest
-@testable import VIP_Architecture
+//@testable VIP_Architecture
 
 class VIP_ArchitectureTests: XCTestCase {
     
